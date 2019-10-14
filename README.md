@@ -14,6 +14,14 @@ This is a Recipe app where a user can add, view and delete recipes.
 2. Backend DB: Google Realtime DB (Firestore)
 3. Hosting: Google Firebase inbuilt hosting service
 
+
+------------
+
+#### ##### Deployment
+
+To deploy this app to Firebase, use `firebase deploy` after commiting the changes
+
+
 ------------
 
 ###### Note:
@@ -25,3 +33,5 @@ This is a Recipe app where a user can add, view and delete recipes.
 
 
 ###### MIT License
+
+
